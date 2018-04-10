@@ -1,0 +1,20 @@
+{
+  "name": "battleship-challenge",
+  "version": "1.0.0",
+  "description": "Sets up battleship board",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristajg/battleship-challenge.git"
+  },
+  "author": "Krista Goralczyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristajg/battleship-challenge/issues"
+  },
+  "homepage": "https://github.com/kristajg/battleship-challenge#readme"
+}
